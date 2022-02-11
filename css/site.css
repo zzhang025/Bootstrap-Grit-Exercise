@@ -12,6 +12,13 @@ body>main{
     bottom: 0;
     width: 100%;
 }
+main>.container-large{
+    padding-top:60px;
+}
+main>.container-fluid{
+    padding-top:60px;
+}
+
 .homeBG{
     width: 100%;
     background:url("/img/GridBG.png");
